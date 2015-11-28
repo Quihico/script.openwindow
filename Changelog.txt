@@ -1,0 +1,3 @@
+v.1.0.5: Fixed issue with white out background when exiting.
+
+v:1.0.4: Initial version
