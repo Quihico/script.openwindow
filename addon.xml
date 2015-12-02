@@ -2,7 +2,6 @@
 <addon id="script.openwindow" name="Startup Wizard" version="1.0.2" provider-name="TotalRevolution">
   <requires>
 	<import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.addon.common" />
   </requires>
   <extension point="xbmc.python.script" library="default.py" >
     <provides>executable</provides>
