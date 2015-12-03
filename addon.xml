@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.openwindow" name="Startup Wizard" version="1.0.2" provider-name="TotalRevolution">
+<addon id="script.openwindow" name="Startup Wizard" version="1.0.3" provider-name="TotalRevolution">
   <requires>
 	<import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -13,6 +13,6 @@
     <platform>all</platform>
     <language>en</language>
     <license>Creative Commons 4.0-NC-ND</license>
-	<ref>c3363c11f7f7d9b13ecbeb15540af0a3</ref>
+	<ref>2e1fc2457375653a05d2553fe93657c7</ref>
   </extension>
 </addon>
